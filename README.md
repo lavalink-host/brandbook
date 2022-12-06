@@ -23,11 +23,11 @@ in the name of which:
 
 ### Colors
 
-Interdimensional Blue / Purple: #5024CC (RGB: 80, 36, 204)
-Majorelle Blue: #6740D7 (RGB: 103, 64, 215)
-Eerie Black / Black: #1A1A1A (RGB: 26, 26, 26)
-White: #FFFFFF (RGB: 255, 255, 255)
-Black: #000000 (RGB: 0, 0, 0)
+- Interdimensional Blue / Purple: #5024CC (RGB: 80, 36, 204)
+- Majorelle Blue: #6740D7 (RGB: 103, 64, 215)
+- Eerie Black / Black: #1A1A1A (RGB: 26, 26, 26)
+- White: #FFFFFF (RGB: 255, 255, 255)
+- Black: #000000 (RGB: 0, 0, 0)
 
 ## License
 
